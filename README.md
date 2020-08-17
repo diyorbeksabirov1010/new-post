@@ -1,1 +1,1 @@
-# new-post
+NEW-POST
